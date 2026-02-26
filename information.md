@@ -66,3 +66,6 @@
 | `PFs` | Float | Probability or proportion of a specific functional group (s-type). |
 | `PFt` | Float | Probability or proportion of a specific functional group (t-type). |
 | `PFsum` | Float | Sum of functional group proportions (PFp + PFs + PFt). Should theoretically be ≤ 1. |
+
+
+
